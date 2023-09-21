@@ -1,4 +1,4 @@
-Nasıl Oynanır?
+#Nasıl Oynanır?
   
   Oyunun amacı bir alanda mayınlara rastlamadan tüm boş kareleri bulmaktır. Kareleri açtıktan sonra çıkan sayılar ise karenin etrafındaki mayın sayısının toplamını gösterir. 
   İlk olarak oyunu açtığınızda karşınıza aşağıda gösterildiği gibi bir ekran gelecek.
@@ -8,7 +8,7 @@ Nasıl Oynanır?
   Burada hangi komutu uygulamak istiyorsanız (c = açmak, d = bayrak koymak, e = bayrak koyulan yeri açmak) onun harf olarak karşılığını sütun ve satir numaralarıyla beraber sisteme girmeniz gerekiyor.
   Örneğin: 3. sütun, 4. satiri açmak istiyorum. Bu halde, c,3,4 olarak sisteme girmem gerekiyor. İyi eğlenceler!
 
-How to play?
+#How to play?
 
   The aim of the game is to find all the empty squares in an area without running into mines. The numbers that appear after opening the squares show the total number of mines around the square.
   First, when you open the game, you will see a screen as shown below.
